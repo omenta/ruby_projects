@@ -13,7 +13,7 @@
 #* File: hi_lo.rb                                                                      *
 #* Author: Amos Nyarongi                                                               *
 #* Date Created: October 10, 2017                                                      *
-#* Las Modified: October 24, 2017                                                      *
+#* Last Modified: October 24, 2017                                                      *
 #* © Copyright omenta 2017.                                                            *
 #*                                                                                     *
 #***************************************************************************************
