@@ -1,6 +1,7 @@
 =begin
 #***************************************************************************************
 #* LICENCE AND USAGE                                                                   *
+#* Lisenced under the GNU General Public License                                       *
 #* I will spare you the legal lingo and keep it simple and in plain english.           *
 #* For this software, you are free to use it, modify it and even distribute it         *
 #* as long as you follow these simple rules:                                           *
